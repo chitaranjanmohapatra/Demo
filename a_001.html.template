@@ -1,0 +1,845 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+  <head><!-- MainLayout_Composing -->
+    <base href="https://www.destatis.de/" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>National economy &amp; environment - Consumer price indices - Federal Statistical Office (Destatis)</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="imagetoolbar" content="false" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="genTime" content="Tue Apr 10 09:20:15 CEST 2018"/>
+    <meta name="generator" content="Government Site Builder"/>
+<script data-main="SiteGlobals/Functions/JavaScript6/Init.js;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?v=1" src="SiteGlobals/Functions/JavaScript6/JQuery_Require.js;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?v=1"></script>      
+<script type="text/javascript">//<![CDATA[
+      // i18n
+        var PRINT_PAGE_TEXT = 'Print';
+        var PRINT_TOOLTIP = 'Print (opens dialog)';
+        var PRINT_FANCYBOX = 'Print';
+        var CLOSE_FANCYBOX = 'close';
+        var search_lang = "en";
+      //]]>
+    </script>
+    <!--[if lte IE 8]>
+      <script type="text/javascript" src="SiteGlobals/Functions/JavaScript6/Addon_CSS3PIE.js;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?v=1"></script>
+    <![endif]-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=1.0, user-scalable=yes" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="pragma" content="no-cache" />
+
+
+    
+    
+    <meta name="keywords" content="Consumer, Consumer price, consumer price index"/>
+    
+    <link rel="canonical" href="https://www.destatis.de/EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/ConsumerPriceIndices.html"/>
+    <link rel="bookmark" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/ConsumerPriceIndices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2#Start" type="text/html" title="Zum Inhalt" /><!-- NOTE: points to the beginning of the document -->
+    <link rel="copyright" href="DE/Meta/Impressum/Impressum.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/html" title="Imprint" />
+    <link rel="glossary" href="" type="text/html" title="Glossary" />
+    <link rel="help" href="" type="text/html" title="Help" />
+    <link rel="start" href="DE/Startseite.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/html" title="Homepage" />
+    <link rel="contents" href="DE/Meta/Sitemap/Sitemap.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/html" title="Sitemap" />
+    <link rel="search" href="DE/Meta/Suche/Suche.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/html" title="Search" />
+
+  <link rel="up" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/Prices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/html" title="Prices" />
+    <link rel="shortcut icon" href="/SiteGlobals/StyleBundles/Bilder/favicon.ico;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal&amp;v=8" type="image/ico" />
+
+<link rel="alternate" type="application/rss+xml" title="Statistisches Bundesamt" href="SiteGlobals/Functions/RSSFeed/EN/RSSNewsfeed/NewsFeed.xml;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"/>
+
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/destatis.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen,projection, print" />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/destatis-bg-images.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen,handheld,projection, print" />
+<!--[if IE 7]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/ie7.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen,handheld,projection,print" /><![endif]-->
+<!--[if gte IE 8]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/gte-ie8.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen,handheld,projection, print" /><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/lte-ie8.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen,handheld,projection, print" /><![endif]-->
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/handheld.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="only screen and (max-device-width: 640px)" />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/printmedia.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="print" />
+<link id="printcss" rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/print.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="print" />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/destatis_ao.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen,projection, print" />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/destatis_ao_PM.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen" />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/destatis_gbs6.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen" />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/fancybox.css;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" type="text/css" media="screen,projection" />
+
+
+<!--<script type="text/javascript"src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js" ></script>-->
+  </head>
+  <body class="gsb" >
+    
+
+<div id="printPreview" class="printpreview">
+ <span class="formHandle">
+  <span>
+   <a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/ConsumerPriceIndices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" onclick="ppToggle(); return false;">Normal view</a>
+  </span>
+ </span>
+ <script type="text/javascript">
+  /* <![CDATA[ */
+  var printLinkText = 'Print';
+  document.write('<span class="formHandle"><span><a href="#" onclick="window.print();return false;">' + printLinkText + '<\/a><\/span><\/span>');
+  /* ]]> */
+ </script> 
+</div>
+<div id="wrapperOuter">
+  <div id="wrapperInner">
+    <a id="Start" name="Start"></a>
+    <h1 class="navSkip">Navigation and service</h1>
+    <ul class="navSkip">
+      <li><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/ConsumerPriceIndices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2#Inhalt">Go to: Content</a></li>
+      <li><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/ConsumerPriceIndices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2#Hauptmenu">Go to: Main Menu</a></li>
+    </ul><!-- .navSkip -->
+    <div id="wrapperHeader" class="clearfix">
+      <div id="fade2BG"></div>
+      <div id="logoDestatis"><a href="EN/Homepage.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" id="anfang" title="to homepage"><img src="/SiteGlobals/StyleBundles/Bilder/logoDestatis.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal&amp;v=23" alt="Logo Destatis - Statistisches Bundesamt, Link to homepage" /></a></div>
+      <div id="navServiceMeta" class="clearfix">
+        <h2 class="aural">Servicemeu</h2>
+        
+<ul><li class="" ><a href="EN/Meta/Sitemap/Sitemap.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Sitemap</a></li><li class="" ><a href="EN/Service/Contact/Contact.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Con­tact</a></li><li class="" ><a href="EN/Service/Imprint/Imprint.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Le­gal No­tice</a></li><li class="last" ><a href="EN/Meta/RSS/RSS_News.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">RSS/News</a></li></ul>
+      </div>
+      <div id="langSwitch">
+        <ul class="clearfix">
+          
+<li class="deutsch_node virgin"><a title="Zum deutschen Auftritt" class="languageLink lang_de" href="DE/ZahlenFakten/GesamtwirtschaftUmwelt/Preise/Verbraucherpreisindizes/Verbraucherpreisindizes.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" xml:lang="de" hreflang="de" lang="de">Deutsch</a></li>
+                  
+<li class="englisch_node virgin"><strong title="Switch to english website" class="languageLink lang_en" xml:lang="en" lang="en">English</strong></li>
+                  
+        </ul>
+      </div>
+      <div id="search">
+        <h2 class="aural"><a id="Suche" name="Suche">Search: Please use the tab to enter the search field.</a></h2>
+        
+
+<form name="ServicebereichSuche" action="SiteGlobals/Forms/Suche/Servicesuche_Formular.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"
+	method="get" enctype="application/x-www-form-urlencoded">
+	
+  <input type="hidden" name="nn" value="51084"/>
+  <input type="hidden" name="resourceId" value="47156" />
+  <input type="hidden" name="input_" value="51084" />
+  <input type="hidden" name="pageLocale" value="EN" />
+	<input type="hidden" name="searchUrl" value="http://www.destatis.de/EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/ConsumerPriceIndices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"/>
+	<fieldset>
+    <p>
+      <label for="topSearchField " class="aural">Search term</label>
+      <input type="text" maxlength="100" size="26" alt="" value="" name="templateQueryString" id="topSearchField" class="suchtext" />
+      
+      <input type="hidden" name="lang_" value="en"/>
+      <input type="hidden" name="operatorSwitch" value="A" />
+      <input type="hidden" name="resultsPerPage" value="10" />
+      <input type="image" src="/SiteGlobals/StyleBundles/Bilder/btnHeaderSucheLupe.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal&amp;v=10" id="btnSucheAbsenden" title="Start Search" class="submit" alt="Start Search" />
+    </p>
+</fieldset>
+</form>
+
+      </div><!-- #search -->
+    <div id="navPrimary" class="clearfix">
+      <h2 class="aural"><a id="Hauptmenu" name="Hauptmenu">Main Menu</a></h2>
+      <div id="bgLeft"></div>
+        
+<ul>
+  <li class="active">
+    <div class="box" id="n-1">
+      <h3><a href="EN/FactsFigures/FactsFigures.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" class="on"><span><span class="rounded"></span><span class="roundedr"></span>Facts &amp; Fig­ures</span></a></h3>
+    <h4 class="aural">Unternavigationspunkte</h4>
+    <div class="menu">
+      <div class="menu-box">
+        <div class="wrapperFlyout clearfix">
+    <div class="col">
+        <h5><a href="EN/FactsFigures/Indicators/Indicators.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">In­di­ca­tors</a>
+        </h5>
+        <ul>
+            
+<li class="virgin"><a href="EN/FactsFigures/Indicators/ShortTermIndicators/ShortTermIndicators.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Short-term in­di­ca­tors</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/Indicators/SustainableDevelopmentIndicators/SustainableDevelopmentIndicators.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Sus­tain­able de­vel­op­ment in­di­ca­tors</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/Indicators/GlobalisationIndicators/GlobalisationIndicators.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Glob­al­i­sa­tion in­di­ca­tors</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/Indicators/BureaucracyCosts/BureaucracyCosts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Bu­reau­cra­cy costs</a></li>
+                  
+        </ul>
+        <br/><br/>
+        <h5><a href="EN/FactsFigures/CountriesRegions/CountriesRegions.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Coun­tries &amp; re­gions</a></h5>
+        <ul>
+            
+<li class="virgin"><a href="EN/FactsFigures/CountriesRegions/RegionalStatistics/RegionalStatistics.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Re­gion­al statis­tics</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/CountriesRegions/Europe/Europe.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Eu­rope</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/CountriesRegions/InternationalStatistics/InternationalStatistics.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">In­ter­na­tion­al statis­tics</a></li>
+                  
+        </ul>
+    </div>
+    <div class="col">
+        <h5><a href="EN/FactsFigures/NationalEconomyEnvironment/NationalEconomyEnvironment.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Na­tion­al econ­o­my &amp; en­vi­ron­ment</a></h5>
+        <ul>
+            
+<li class="virgin"><a href="EN/FactsFigures/NationalEconomyEnvironment/NationalAccounts/NationalAccounts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Na­tion­al ac­counts, do­mes­tic prod­uct</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/NationalEconomyEnvironment/EnterprisesCrafts/EnterprisesCrafts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">En­ter­pris­es, crafts</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/NationalEconomyEnvironment/LabourMarket/LabourMarket.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Labour mar­ket</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/NationalEconomyEnvironment/EarningsLabourCosts/EarningsLabourCosts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Earn­ings &amp; labour costs</a></li>
+                  
+<li class="topinpath"><em><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/Prices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Prices</a></em></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/NationalEconomyEnvironment/ForeignTrade/ForeignTrade.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">For­eign trade</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/NationalEconomyEnvironment/Environment/Environment.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">En­vi­ron­ment</a></li>
+                  
+        </ul>
+    </div>
+    <div class="col">
+        <h5><a href="EN/FactsFigures/EconomicSectors/EconomicSectors.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Eco­nom­ic Sec­tors</a></h5>
+        <ul>
+            
+<li class="virgin"><a href="EN/FactsFigures/EconomicSectors/AgricultureForestryFisheries/AgricultureForestryFisheries.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Agri­cul­ture and forestry, fish­eries</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/EconomicSectors/IndustryManufacturing/IndustryManufacturing.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">In­dus­try, Man­u­fac­tur­ing</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/EconomicSectors/Energy/Energy.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">En­er­gy</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/EconomicSectors/Construction/Construction.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Con­struc­tion</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/EconomicSectors/Service/Service.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Ser­vices</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/EconomicSectors/DomesticTradeAccommodationFoodServicesActivitiesTourism/DomesticTradeAccommodationFoodServicesActivitiesTourism.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Do­mes­tic trade, ac­com­mo­da­tion and food ser­vice ac­tiv­i­ties, tourism</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/EconomicSectors/TransportTraffic/Transport.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Trans­port</a></li>
+                  
+        </ul>
+    </div>
+    <div class="col last">
+        <h5><a href="EN/FactsFigures/SocietyState/SocietyState.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">So­ci­ety &amp; state</a></h5>
+        <ul>
+            
+<li class="virgin"><a href="EN/FactsFigures/SocietyState/Population/Population.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Pop­u­la­tion</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/SocietyState/IncomeConsumptionLivingConditions/IncomeConsumptionLivingConditions.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">In­come, con­sump­tion, liv­ing con­di­tions, hous­ing</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/SocietyState/EducationResearchCulture/EducationResearchCulture.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Ed­u­ca­tion, re­search, cul­ture</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/SocietyState/Health/Health.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Health</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/SocietyState/SocialStatistics/SocialStatistics.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">So­cial statis­tics</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/SocietyState/PublicFinanceTaxes/PublicFinanceTaxes.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Pub­lic fi­nance and tax­es</a></li>
+                  
+<li class="virgin"><a href="EN/FactsFigures/SocietyState/Justice/Justice.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Jus­tice</a></li>
+                  
+        </ul>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+</li>
+  <li>
+    <div class="box" id="n-2">
+      <h3><a href="EN/Publications/Publications.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"><span><span class="rounded"></span><span class="roundedr"></span>Pub­li­ca­tions</span></a></h3>
+    <h4 class="aural">Unternavigationspunkte</h4>
+    <div class="menu">
+      <div class="menu-box">
+        <div class="wrapperFlyout clearfix">
+    <div class="col">
+        <ul>
+            
+<li class="virgin"><a href="EN/Publications/Specialized/SpecializedPublications.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Spe­cial­ized pub­li­ca­tions</a></li>
+                  
+<li class="virgin"><a href="EN/Publications/QualityReports/QualityReports.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Qual­i­ty Re­ports</a></li>
+                  
+<li class="virgin"><a href="EN/Publications/STATmagazin/STATmagazin.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">STAT­magazin</a></li>
+                  
+<li class="virgin"><a href="EN/Publications/WirtschaftStatistik/WirtschaftStatistik.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">WISTA – Sci­en­tif­ic Jour­nal</a></li>
+                  
+        </ul>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+</li>
+  <li>
+    <div class="box" id="n-3">
+      <h3><a href="EN/PressServices/PressServices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"><span><span class="rounded"></span><span class="roundedr"></span>Press &amp; Ser­vices</span></a></h3>
+    <h4 class="aural">Unternavigationspunkte</h4>
+    <div class="menu">
+      <div class="menu-box">
+        <div class="wrapperFlyout clearfix">
+    <div class="col">
+        <ul>
+            
+<li class="virgin"><a href="EN/PressServices/Press/Press.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Press</a></li>
+                  
+<li class="virgin"><a href="EN/PressServices/InformationService/InformationService.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">In­for­ma­tion ser­vice</a></li>
+                  
+<li class="virgin"><a href="EN/PressServices/AddressBook/AdressBook.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Ad­dress book</a></li>
+                  
+<li class="virgin"><a href="EN/PressServices/ResearchDataCentre/ResearchDataCentre.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Re­search da­ta cen­tre</a></li>
+                  
+<li class="virgin"><a href="EN/PressServices/Library/Library.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Li­brary</a></li>
+                  
+        </ul>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+</li>
+  <li>
+    <div class="box" id="n-4">
+      <h3><a href="EN/Methods/Methods.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"><span><span class="rounded"></span><span class="roundedr"></span>Meth­ods</span></a></h3>
+    <h4 class="aural">Unternavigationspunkte</h4>
+    <div class="menu">
+      <div class="menu-box">
+        <div class="wrapperFlyout clearfix">
+    <div class="col">
+        <ul>
+            
+<li class="virgin"><a href="EN/Methods/Census/Census.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Cen­sus</a></li>
+                  
+<li class="virgin"><a href="EN/Methods/Quality/Quality.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Qual­i­ty</a></li>
+                  
+<li class="virgin"><a href="EN/Methods/TimeSeries/TimeSeriesAnalysis.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Time Se­ries Anal­y­sis</a></li>
+                  
+        </ul>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+</li>
+  <li>
+    <div class="box" id="n-5">
+      <h3><a href="EN/AboutUs/AboutUs.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"><span><span class="rounded"></span><span class="roundedr"></span>About us</span></a></h3>
+    <h4 class="aural">Unternavigationspunkte</h4>
+    <div class="menu">
+      <div class="menu-box">
+        <div class="wrapperFlyout clearfix">
+  <div class="col">
+    <ul>
+      
+<li class="virgin"><a href="EN/AboutUs/OurMission/OurMission.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Our mis­sion</a></li>
+                  
+<li class="virgin"><a href="EN/AboutUs/OurGoals/OurGoals.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Goals, Strat­e­gy</a></li>
+                  
+<li class="virgin"><a href="EN/AboutUs/SeniorManagementOrganisation/SeniorManagementOrganisation.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Se­nior man­age­ment, or­gan­i­sa­tion</a></li>
+                  
+<li class="virgin"><a href="EN/AboutUs/History/History.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">His­to­ry</a></li>
+                  
+<li class="virgin"><a href="EN/AboutUs/Events/Events.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Events</a></li>
+                  
+    </ul>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+</li></ul>
+      <div id="bgRight"></div>
+    </div><!-- #navPrimary -->
+  </div><!-- #wrapperHeader -->
+    <div id="wrapperDivisions" class="modgrid">
+      <div id="siteNav">
+        <div id="navBreadcrumbs" class="clearfix">
+          <ol><li class="first"><a href="EN/Homepage.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Homepage</a></li><li><a href="EN/FactsFigures/FactsFigures.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Facts &amp; Figures</a></li><li><a href="EN/FactsFigures/NationalEconomyEnvironment/NationalEconomyEnvironment.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">National economy &amp; environment</a></li><li><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/Prices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Prices</a></li><li><strong>Consumer price indices</strong></li></ol>
+        </div><!-- #navBreadcrumbs -->
+      </div>
+      <div id="navSecondary">
+        <h2 class="aural"><a id="Bereichsmenu" name="Bereichsmenu">Area Menu</a></h2>
+
+        <div id="suchfilterMobSwitch">
+          <div class="mobToggle aus" style="display:none;"><span id="back" onclick="$('.mobToggle').toggle(500);" >Close submenu</span></div>
+          <div class="mobToggle ein" style="display:block;"><span id="jump" onclick="$('.mobToggle').toggle(500);">Open submenu</span></div>
+        </div>
+
+
+        <div class="mobToggle nav">
+           <div class="navMain">
+    <ul>
+      <li class="first "><a href="EN/FactsFigures/Indicators/Indicators.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">In­di­ca­tors</a>
+
+</li>
+      <li class=""><em><a href="EN/FactsFigures/NationalEconomyEnvironment/NationalEconomyEnvironment.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Na­tion­al econ­o­my &amp; en­vi­ron­ment</a></em><span class="aural">:</span>
+        <ul>
+          <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/NationalAccounts/NationalAccounts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Na­tion­al ac­counts, do­mes­tic prod­uct</a>
+
+</li>
+          <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/EnterprisesCrafts/EnterprisesCrafts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">En­ter­pris­es, crafts</a>
+
+</li>
+          <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/LabourMarket/LabourMarket.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Labour mar­ket</a>
+
+</li>
+          <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/EarningsLabourCosts/EarningsLabourCosts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Earn­ings &amp; labour costs</a>
+
+</li>
+          <li class=""><em><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/Prices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Prices</a></em><span class="aural">:</span>
+            <ul>
+              <li class=""><strong>Con­sumer price in­dices</strong>
+
+</li>
+              <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/IndexProducerPricesIndustrialProducts/IndexProducerPricesIndustrialProducts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Pro­duc­er price in­dex for in­dus­tri­al prod­ucts</a>
+
+</li>
+              <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/PriceIndicesAgricultureForestry/PriceIndicesAgricultureForestry.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Price in­dices in agri­cul­ture and forestry</a>
+
+</li>
+              <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/IndexProducerPricesServices/IndexProducerPricesServices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Pro­duc­er price in­dices for ser­vices</a>
+
+</li>
+              <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/IndexWholesalePrices/IndexWholesalePrices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Whole­sale price in­dex</a>
+
+</li>
+              <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConstructionPricesRealPropertyPrices/ConstructionPricesRealPropertyPrices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Con­struc­tion prices and re­al prop­er­ty prices</a>
+
+</li>
+              <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ImportExportPrices/ImportExportPrices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Im­port and ex­port price in­dices</a>
+
+</li>
+              <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/InternationalComparison/InternationalComparison.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">In­ter­na­tion­al com­par­i­son</a>
+
+</li>
+            </ul>
+          </li>
+          <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/ForeignTrade/ForeignTrade.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">For­eign trade</a>
+
+</li>
+          <li class=""><a href="EN/FactsFigures/NationalEconomyEnvironment/Environment/Environment.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">En­vi­ron­ment</a>
+
+</li>
+        </ul>
+      </li>
+      <li class=""><a href="EN/FactsFigures/EconomicSectors/EconomicSectors.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Eco­nom­ic Sec­tors</a>
+
+</li>
+      <li class=""><a href="EN/FactsFigures/SocietyState/SocietyState.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">So­ci­ety &amp; state</a>
+
+</li>
+      <li class=""><a href="EN/FactsFigures/CountriesRegions/CountriesRegions.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Coun­tries &amp; re­gions</a>
+
+</li>
+    </ul></div>
+           
+        </div>
+      </div><!-- #navSecondary -->
+<div id="area" class="clearfix colorsetMittelBlau">
+  <div class="leftBGStart"></div>
+  <div class="rightBGEnd"></div>
+  <div class="rightBGStart"></div>
+  <p><img alt="" title="" src="/EN/_Graphic/IconAreaIdentification/Prices.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=wide" /><span>Prices</span></p>
+  <div class="leftBGEnd"></div>
+</div>
+<div id="wrapperLayoutEinspaltigMitMS">
+  <div id="wrapperContent">
+    <div id="content">
+      <a id="Inhalt" name="Inhalt"></a>
+      <div  >
+        
+<div class="module shadowBot ">
+  <div class="singleview generictable">
+    <h1>Consumer price indices</h1>
+
+<div class="links">
+  
+          
+<div class="teaserOneCol module shadowBot"><div class="wrapperTeaser singleTeaser">  
+<div class="teaser singleview">
+  <h2><a href="EN/PressServices/Press/pr/2018/03/PE18_116_611.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Consumer prices in March 2018: 1.6% rise on March 2017 expected</a></h2>
+  
+  <div class="teaserText"><p>The inflation rate in Germany as measured by the consumer price index is expected to be 1.6% in March 2018. Based on the results available so far, the Federal Statistical Office (Destatis) also reports that the consumer prices are expected to increase by 0.4% on February 2018.</p>
+</div>
+  <p>
+  <strong class="more">
+    <a href="EN/PressServices/Press/pr/2018/03/PE18_116_611.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">
+      More
+      <span class="aural">: Consumer prices in March 2018: 1.6% rise on March 2017 expected &#8230;</span>
+	</a>
+  </strong>
+</p>
+  <div class="clear"></div>
+</div></div></div>
+
+ 
+          
+<div class="teaserOneCol module shadowBot"><div class="wrapperTeaser singleTeaser">  
+<div class="teaser singleview">
+  <h2><a href="EN/PressServices/Press/pr/2018/03/PE18_090_611.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Consumer prices in February 2018: +1.4% on February 2017</a></h2>
+  
+  <div class="teaserText"><p>Consumer prices in Germany were 1.4% higher in February 2018 than in February 2017. The <a class="RichTextIntLink GenericTable" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Tables_/ConsumerPricesCategories.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Monthly levels; Annual average">inflation</a> rate – measured by the consumer price index – thus decreased for the third consecutive month. In January 2018, it had been +1.6%. Compared with January 2018, the consumer price index rose by 0.5% in February 2018. The Federal Statistical Office (Destatis) thus confirms its provisional overall results <a class="RichTextIntLink PressRelease" href="EN/PressServices/Press/pr/2018/02/PE18_064_611.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Consumer prices in February 2018: 1.4% rise on February 2017 expected">of 27 February 2018</a>. </p>
+</div>
+  <p>
+  <strong class="more">
+    <a href="EN/PressServices/Press/pr/2018/03/PE18_090_611.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">
+      More
+      <span class="aural">: Consumer prices in February 2018: +1.4% on February 2017 &#8230;</span>
+	</a>
+  </strong>
+</p>
+  <div class="clear"></div>
+</div></div></div>
+
+       <hr class="breit">
+        <div class="allLink"><a href="/SiteGlobals/Forms/Suche/EN/Press/Subject/PressSubject.html?lang_=en&cl2Categories_Themen=Preise_Preise">More press releases on the subject</a></div>
+</div>
+  </div>
+</div>
+<div class="module shadowBot "><div class="singleview documentleaf  ">
+<h1 >Noticeable price changes in February</h1><span style="width:288px;" class="teaserImage picture links"><span class="wrapper"><a rel="galerie2" class="lupe" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_TOP10_Month.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" title="Larger view of graphic &quot;Consumer prices of selected goods and services&quot;"><img src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_TOP10_Month.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal" title="Consumer prices of selected goods and services" alt="Consumer prices of selected goods and services" style="width:288px;"/><span class="empty">Enlarge picture</span></a></span>
+</span>
+<p>Get an overview of the most noticeable <a class="RichTextIntLink Basepage" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Tables/Top20.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Link to the table of the most noticable price changes">price changes</a> for selected goods and services.</p>
+
+<p>If you want to know how the prices of all product groups have developed please refer to our <a class="RichTextIntLink Basepage" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/Content75/PriceKaleidoscopeOverview.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Price Kaleidoscope">price kaleidoscope</a>.</p>
+
+<p>If you want to know by how much your personal inflation rate differs from the official one, just test our "<a class="RichTextIntLink Basepage" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/Content75/PersonalInflationCalculator.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Personal inflation calculator">personal inflation calculator</a>".</p>
+<div class="sectionRelated">              </div><div class="clear"></div></div></div>
+
+<div class="teaserOneCol module shadowBot"><div class="wrapperTeaser singleTeaser">  
+<div class="teaser singleview">
+  <h2><a href="EN/Publications/Specialized/Prices/ConsumerPriceTrends_5611110177004.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?nn=51084">Harmonised Consumer Prices in 2017 – Trends in Europe</a></h2>
+  
+  <div class="teaserText"><p>In 2017, the annual rate of change of the Harmonised Index of Consumer Prices (HICP) for Germany was higher (+1.7%) than the average rate of change for the euro area (+1.5%). The annual inflation rate of the EU as well as of the European Economic Area increased by +1.7% and thus in the same extent as the HICP for Germany. The present flyer gives an overview of consumer price trends in Europe in 2017 as measured by the HICP.</p>
+</div>
+  <p>
+  <strong class="more">
+    <a href="EN/Publications/Specialized/Prices/ConsumerPriceTrends_5611110177004.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?nn=51084">
+      More
+      <span class="aural">: Harmonised Consumer Prices in 2017 – Trends in Europe &#8230;</span>
+	</a>
+  </strong>
+</p>
+  <div class="clear"></div>
+</div></div></div>
+
+<div class="module shadowBot ">
+  <div class="singleview generictable">
+    <h1>Price indices in contracts</h1>
+
+<div class="links">
+  
+          
+<div class="teaserOneCol module shadowBot"><div class="wrapperTeaser singleTeaser">  
+<div class="teaser singleview">
+  <h2><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/PriceIndicesContracts/Current.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">Price indices in contracts</a></h2>
+  
+  <div class="teaserText"><p>For your convenience, we have compiled important information on stable value clauses based on the consumer price index in our <a href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/PriceIndicesContracts/GeneralInformation.pdf;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=publicationFile" class="IconPDF" title="Opens in new window: General Information on dealing with stable-value clauses (PDF, 105 kB, File not barrier free)" target="_blank">general information</a>.</p>
+</div>
+  
+
+<p class="moreP">
+  <strong class="more">
+    <a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/PriceIndicesContracts/Current.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2">
+      More
+      <span class="aural">: Price indices in contracts &#8230;</span>
+	</a>
+  </strong>
+</p>
+
+  <div class="clear"></div>
+</div></div></div>
+
+ </div>
+  </div>
+</div><div class="module shadowBot">
+<div class="interaktiveAnwendungen x3 diaGalerie">
+  <h1>charts</h1>
+  
+  <div class="alleAnwendungen">
+<div class="teaser">
+
+<div class="picture">
+<div class="teaserImage"><span class="wrapper">
+
+    <a title="Yearly inflation rate" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_Germany_Year.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" class="lupe" rel="galerie2">
+      <span class="imageWrapper">
+        <span>
+          <img alt="Inflation rate for Germany" title="Inflation rate for Germany" src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_Germany_Year.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal">
+          <span class="empty">BildVergroessern</span>
+        </span>
+      </span>
+      <span>Yearly inflation rate</span>
+    </a>
+
+</span></div></div>
+
+</div>
+
+<div class="teaser">
+
+<div class="picture">
+<div class="teaserImage"><span class="wrapper">
+
+    <a title="Monthly inflation rate" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_Germany_Month_YA.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" class="lupe" rel="galerie2">
+      <span class="imageWrapper">
+        <span>
+          <img alt="Inflation rate for Germany" title="Inflation rate for Germany" src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_Germany_Month_YA.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal">
+          <span class="empty">BildVergroessern</span>
+        </span>
+      </span>
+      <span>Monthly inflation rate</span>
+    </a>
+
+</span></div></div>
+
+</div>
+
+<div class="teaser">
+
+<div class="picture">
+<div class="teaserImage"><span class="wrapper">
+
+    <a title="Consumer price indices by
+category of goods, 2017" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_CategoryGoods_Year.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" class="lupe" rel="galerie2">
+      <span class="imageWrapper">
+        <span>
+          <img alt="Consumer price indices for all category of goods" title="Consumer price indices for all category of goods" src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_CategoryGoods_Year.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal">
+          <span class="empty">BildVergroessern</span>
+        </span>
+      </span>
+      <span>Consumer price indices by<br/>
+category of goods, 2017</span>
+    </a>
+
+</span></div></div>
+
+</div>
+
+<div class="teaser">
+
+<div class="picture">
+<div class="teaserImage"><span class="wrapper">
+
+    <a title="Consumer price indices by
+category of goods, Feb. 2018" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_CategoryGoods_Month.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" class="lupe" rel="galerie2">
+      <span class="imageWrapper">
+        <span>
+          <img alt="Consumer price indices for all category of goods" title="Consumer price indices for all category of goods" src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_CategoryGoods_Month.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal">
+          <span class="empty">BildVergroessern</span>
+        </span>
+      </span>
+      <span>Consumer price indices by<br/>
+category of goods, Feb. 2018</span>
+    </a>
+
+</span></div></div>
+
+</div>
+
+<div class="teaser">
+
+<div class="picture">
+<div class="teaserImage"><span class="wrapper">
+
+    <a title="Consumer prices of selected
+goods and services, 2017" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_TOP20_Year.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" class="lupe" rel="galerie2">
+      <span class="imageWrapper">
+        <span>
+          <img alt="Consumer prices for selected goods and services" title="Consumer prices for selected goods and services" src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_TOP20_Year.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal">
+          <span class="empty">BildVergroessern</span>
+        </span>
+      </span>
+      <span>Consumer prices of selected<br/>
+goods and services, 2017</span>
+    </a>
+
+</span></div></div>
+
+</div>
+
+<div class="teaser">
+
+<div class="picture">
+<div class="teaserImage"><span class="wrapper">
+
+    <a title="Consumer prices of selected
+goods and services, Feb. 2018" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_TOP20_Month.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" class="lupe" rel="galerie2">
+      <span class="imageWrapper">
+        <span>
+          <img alt="Consumer prices of selected goods and services" title="Consumer prices of selected goods and services" src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/CPI_TOP20_Month.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal">
+          <span class="empty">BildVergroessern</span>
+        </span>
+      </span>
+      <span>Consumer prices of selected<br/>
+goods and services, Feb. 2018</span>
+    </a>
+
+</span></div></div>
+
+</div>
+
+<div class="teaser">
+
+<div class="picture">
+<div class="teaserImage"><span class="wrapper">
+
+    <a title="Basket of goods and services
+and weighting pattern" href="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/WeightingPattern.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=poster" target="_blank" class="lupe" rel="galerie2">
+      <span class="imageWrapper">
+        <span>
+          <img alt="Weighting pattern at the consumer price index, Basis 2010=100" title="Weighting pattern at the consumer price index, Basis 2010=100" src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/WeightingPattern.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal">
+          <span class="empty">BildVergroessern</span>
+        </span>
+      </span>
+      <span>Basket of goods and services<br/>
+and weighting pattern</span>
+    </a>
+
+</span></div></div>
+
+</div>
+
+  </div>
+  
+</div><!-- interaktiveAnwendungen -->
+</div><!-- module -->
+<div class="module shadowBot "><div class="singleview documentleaf  ">
+<h1 >Tables<a name="Tabellen"></a></h1><ul><li><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Tables_/ConsumerPricesCategories.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Link to the table Overall Index by 12 Divisions">Consumer price index - overall index and by 12 divisions</a></li><li><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Tables_/RetailPrices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Link to the table Retail price index">Retail price index</a> </li><li><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Tables_/HarmonizedConsumerPrices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Link to the table Harmonised index of consumer prices">Harmonised index of consumer prices</a></li><li><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Tables_/ConsumerPricesSpecial.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Monthly levels; Annual average">Consumer price index - special breakdown</a></li><li><p>Calendar and seasonally adjusted</p>
+
+<ul><li><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/kpre510.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">Consumer price index - overall index</a></li><li><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/kpre520.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Link to the table consumer prices for food an non-alcoholic beverages">Food and non-alcoholic beverages</a></li></ul>
+</li><li><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Tables_/TelecommunicationPrices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Monthly levels; Annual average">Price index for telecommunication services</a></li></ul>
+
+<ul><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC99,CC01*,CC012*,CC02*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Food and non-alcoholic beverages, Alcoholic beverages and tobacco (opens new window)">Food and non-alcoholic beverages, Alcoholic beverages and tobacco</a></li><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC03*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Clothing and footwear (opens new window)">Clothing and footwear</a></li><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC04*,CC05*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Housing, water, electricity, gas and other fuels, Furniture, lighting equipment, appliances etc. (opens new window)">Housing, water, electricity, gas and other fuels, Furniture, lighting equipment, appliances</a></li><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC06*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Health care (opens new window)">Health care</a></li><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC07*,CC08*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Transport, Communication (opens new window)">Transport, Communication</a></li><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC09*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Recreation, entertainment and culture (opens new window)">Recreation, entertainment and culture</a></li><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC10*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Education (opens new window)">Education</a></li><li><a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&amp;selectionname=61111-0004&amp;sachmerkmal=CC98A4&amp;sachschluessel=CC11*,CC12*&amp;zeitscheiben=3&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer price index: Accommodation and restaurant services, Miscellaneous goods and services (opens new window)">Accommodation and restaurant services, Miscellaneous goods and services</a></li></ul>
+<hr class="breit"/>
+
+<div class="themenLinks tabellenbloecke">
+  <div class="wrapperRow">
+    <div class="wrapperTeaser leftCol">
+      <div class="datenbanken">
+<h3 id="Datenbanken">Databases</h3>
+
+              
+<ul><li><a href="https://www-genesis.destatis.de/genesis/online/link/tabellen/611*&amp;language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Consumer prices (opens new window)">Consumer price index</a></li></ul>
+
+
+      </div>
+    </div>
+    <div class="wrapperTeaser rightCol">
+      <div class="publikationen">
+<h3>Publications</h3>
+
+              
+<ul><li><a class="RichTextIntLink NavNode" href="EN/Publications/Specialized/Prices/Prices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Publication - Prices">Prices</a></li></ul>
+
+
+      </div>
+    </div>
+   </div>
+</div><div class="sectionRelated">              </div><div class="clear"></div></div></div>
+
+      </div>
+    </div><!-- #content -->
+  </div><!-- #wrapperContent -->
+  <div id="supplement"  >
+    <h2 class="aural"><a id="Zusatzinformationen" name="Zusatzinformationen">Additional Information</a></h2>
+    
+<div class="module shadowBot marginalblock">
+ <div class="teaserTwoCol">
+    <div class="wrapperTeaser row0">
+      <div class="tabellen"><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/ConsumerPriceIndices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2#Tabellen">Tables</a></div>
+    </div>
+ </div>
+</div>
+<div class="module quickFacts">
+  
+<h3>Key figures</h3>
+  <div class="teaserText"><table summary="Hier sehen wir aussagekräftige Zahlen..."><caption>Change on the previous year in %</caption><tbody><tr class="odd"><td class="left" colspan="1" rowspan="1"><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/pre110.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">Consumer prices</a></td><td class="right" colspan="1" rowspan="1">02/2018</td><td class="right" colspan="1" rowspan="1">1.4</td></tr><tr class="even"><td class="left" colspan="1" rowspan="1"><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/pre110.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">Pro­ducer prices of</a><br/>
+<a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/pre110.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">indus­trial pro­ducts</a></td><td class="right" colspan="1" rowspan="1">02/2018</td><td class="right" colspan="1" rowspan="1">1.8</td></tr><tr><td class="left" colspan="1" rowspan="1"><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/pre110.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">Whole­sale prices</a></td><td class="right" colspan="1" rowspan="1">02/2018</td><td class="right" colspan="1" rowspan="1">1.2</td></tr><tr class="even"><td class="left" colspan="1" rowspan="1"><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/bpr110.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">Construc­tion prices</a></td><td class="right" colspan="1" rowspan="1">02/2018</td><td class="right" colspan="1" rowspan="1">4.0</td></tr><tr><td class="left" colspan="1" rowspan="1"><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/pre110.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">Import prices</a></td><td class="right" colspan="1" rowspan="1">02/2018</td><td class="right" colspan="1" rowspan="1">-0.6</td></tr><tr class="even"><td class="left" colspan="1" rowspan="1"><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/Indicators/ShortTermIndicators/Prices/pre110.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices">Export prices</a></td><td class="right" colspan="1" rowspan="1">02/2018</td><td class="right" colspan="1" rowspan="1">0.5</td></tr></tbody></table></div>
+  
+</div><div class="module shadowBot">
+<div class="interaktiveAnwendungen x2">
+  <h3 class="boxheadline">Statistics visualised</h3>
+  
+
+  <div class="alleAnwendungen">
+       
+<div class="teaser"><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/Content75/PersonalInflationCalculator.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"
+			title="read the article &quot;Personal inflation calculator&quot;"><span class="imageWrapper"><span><img src="/EN/Service/Interactive/_Graphic/ICON_InflationCalculator_large.gif;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=wide" title="This graphic shows a preview of the personal inflation calculator." alt="This graphic shows a preview of the personal inflation calculator." /></span></span><span>Personal inflation calculator</span></a></div>
+
+       
+<div class="teaser"><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/CPIVideo.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"
+			title="read the article &quot;Consumer price index and inflation rate&quot;"><span class="imageWrapper"><span><img src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/CPIVideoInteractive.jpg;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=wide" title="Consumer price index and inflation rate" alt="Consumer price index and inflation rate" /></span></span><span>Consumer price index and inflation rate</span></a></div>
+
+       
+<div class="teaser"><a href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/Content75/PriceKaleidoscopeOverview.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"
+			title="read the article &quot;Price Kaleidoscope&quot;"><span class="imageWrapper"><span><img src="/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Preise/_Grafik/Preiskaleidoskop_IA.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=wide" title="Diese Grafik zeigt eine Vorschau auf das Preis-Kaleidoskop." alt="Diese Grafik zeigt eine Vorschau auf das Preis-Kaleidoskop." /></span></span><span>Price Kaleidoscope</span></a></div>
+
+       
+<div class="teaser"><a href="EN/FactsFigures/Indicators/ShortTermIndicators/Pricemonitor/PriceMonitorDetails.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2"
+			title="read the article &quot;Price monitor&quot;"><span class="imageWrapper"><span><img src="/EN/FactsFigures/NationalEconomyEnvironment/Prices/_Graphic/PricemonitorPreview.gif;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=wide" title="This graphic shows a preview on the price monitor." alt="This graphic shows a preview on the price monitor." /></span></span><span>Price monitor</span></a></div>
+
+  </div>
+  
+
+
+</div><!-- interaktiveAnwendungen -->
+</div><!-- module --><div class="module shadowBot "><div class="singleview documentleaf  "><span style="width:10px;" class="teaserImage picture links pfeilsymbol"><span class="wrapper"><img src="/SiteGlobals/StyleBundles/Bilder/bgAllLinkArrow.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal&amp;v=12" title="Pfeil" alt="Pfeil" style="width:10px;"/></span>
+</span>
+<p><a class="RichTextIntLink GenericTable" href="EN/PressServices/Press/preview/Events/ConsumerPrices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Consumer price index"><strong>Long-term release calendar</strong></a></p>
+<hr class="hrLightGrey"/>
+
+<p><a class="RichTextIntLink NavNode" href="EN/Publications/STATmagazin/Prices/PricesArchive.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Publikation - STATmagazin - Prices">STATmagazin </a></p>
+<hr class="hrLightGrey"/>
+
+<p class="highlight">Definitions</p>
+
+<ul><li>What is the <a class="RichTextGlossarLink glossar1890588" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/Glossar/ConsumerPriceIndex.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="To the glossar entry &quot;Consumer price index&quot;">Index of Consumer Prices</a>?</li><li>What is <a class="RichTextGlossarLink glossar1890572" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/Glossar/Inflation.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="To the glossar entry &quot;Inflation&quot;">Inflation</a>?</li></ul>
+<span style="width:10px;" class="teaserImage picture links pfeilsymbol"><span class="wrapper"><img src="/SiteGlobals/StyleBundles/Bilder/bgAllLinkArrow.png;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?__blob=normal&amp;v=12" title="Pfeil" alt="Pfeil" style="width:10px;"/></span>
+</span>
+<p><a class="RichTextIntLink GenericTable" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/_Doorpage/Glossar_Prices.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Glossar to Prices"><strong>More definitions on the subject</strong></a></p>
+<hr class="hrLightGrey"/>
+
+<p class="highlight">Methods</p>
+
+<ul><li><a class="RichTextIntLink NavNode" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/Methods/Methods.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Prices: Explanatory notes on the statistics">Explanatory notes on the statistics</a></li><li><a class="RichTextIntLink Basepage" href="EN/Publications/QualityReports/Prices/PricesReport.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Quality Report - Prices">Quality Reports</a></li><li><a href="http://ec.europa.eu/eurostat/web/hicp/legislation" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Eurostat Legislation (opens new window)">Legal bases (EUROSTAT)</a></li></ul>
+<div class="clear"></div></div></div>
+  </div><!-- #supplement -->
+</div><!-- #wrapperLayoutXXX -->
+    </div><!-- #wrapperDivisions -->
+  
+  <div id="wrapperFooter">
+    <div id="footerLinks">
+      
+<h1></h1>
+<hr/>
+<ul><li><p>Databases<br/>
+</p>
+
+<ul><li><a href="https://www-genesis.destatis.de/genesis/online?language=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: GENESIS-Online, statistical information system (opens new window)">GENESIS-Online</a></li><li><a href="https://www.regionalstatistik.de/genesis/online/data;jsessionid=756AE441EB1327F929F44881911894FF?operation=sprachwechsel&amp;option=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Regionaldatenbank Deutschland - Das statistische Informationssystem des Bundes und der Länder (opens new window)">Regional­datenbank</a></li><li><a href="http://www.gbe-bund.de/gbe10/pkg_isgbe5.prc_isgbe?p_uid=gast&amp;p_aid=&amp;p_sprache=E" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Information System of the Federal Health Monitoring (GBE) (opens new window)">Information System of the Federal Health Monitoring</a></li><li><a href="https://www-skm.destatis.de/webskm/online" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="External link: Link zur Web-Datenbank aller Informationspflichten (opens new window)">Bureaucracy costs</a></li></ul>
+</li><li><p>Interactive</p>
+
+<ul><li><a class="RichTextIntLink Basepage" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/Content75/PriceKaleidoscopeOverview.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Price Kaleidoscope">Price Kaleidoscope</a></li><li><a class="RichTextIntLink NavNode" href="EN/FactsFigures/Indicators/ShortTermIndicators/Pricemonitor/Pricemonitor.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Price monitor">Price monitor</a></li><li><a class="RichTextIntLink Basepage" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/BasketGoodsServicesWeightingPattern/Content75/PersonalInflationCalculator.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Personal inflation calculator">Personal inflation calculator</a></li><li><a href="https://service.destatis.de/bevoelkerungspyramide/" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="Link to animated age pyramid Germany (only in German) (opens new window)">Animated age pyramid Germany</a></li><li><a href="https://service.destatis.de/KoMo/Konjunkturmonitor_2010.svg?lang=en" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="Link to Business Cycle Monitor (opens new window)">Business Cycle Monitor</a></li><li><a href="https://www.destatis.de/onlineatlas/" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="Link to Regional­atlas (only in German) (opens new window)">Regional Atlas</a></li></ul>
+</li><li><p>Popular</p>
+
+<ul><li><a class="RichTextIntLink NavNode" href="EN/FactsFigures/NationalEconomyEnvironment/Prices/ConsumerPriceIndices/PriceIndicesContracts/PriceIndicesContracts.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="National economy &amp; environment - Price indices in contracts">Price indices in contracts</a></li><li><a class="RichTextIntLink NavNode" href="EN/FactsFigures/InFocus/Archive.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="In Focus">In Focus</a></li><li><a class="RichTextIntLink NavNode" href="EN/Publications/STATmagazin/STATmagazin.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Publication - STATmagazin">STATmagazin</a></li></ul>
+</li><li><p>Basics</p>
+
+<ul><li><a class="RichTextIntLink NavNode" href="EN/Methods/Methods.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Methods">Methods</a></li><li><a class="RichTextIntLink NavNode" href="EN/Methods/Quality/Quality.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Quality">Quality</a></li><li><a class="RichTextIntLink Basepage" href="EN/Service/Imprint/DataProtectionDeclaration.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Data protection notes">Data protection notes</a></li></ul>
+</li><li><p>Institutions</p>
+
+<ul><li><a href="http://www.bib-demografie.de/EN/Home/homepage__node.html?__nnn=true" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="Link to Federal Institute for Population Research (opens new window)">Federal Institute for Population Research</a></li><li><a href="http://www.sachverstaendigenrat-wirtschaft.de/index.html?&amp;L=1" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="Link to German Council of Economic Experts (opens new window)">German Council of Economic Experts</a></li><li><a href="http://www.bundeswahlleiter.de/en/index.html" target="_blank" class="RichTextExtLink ExternalLink NewWindowExternalLink" title="Link to the Federal Returning Officer (only in German) (opens new window)">The Federal Returning Officer</a></li><li><a class="RichTextIntLink NavNode" href="EN/PressServices/AddressBook/AdressBook.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Address book">Address book</a></li></ul>
+</li></ul>
+
+    </div>
+    <div id="wrapperSB" class="clearfix">
+    </div>
+    <div id="wrapperSiteInfo">
+      <div id="siteInfo">
+        <p>&#169; Statistisches Bundesamt (Destatis), 2018</p>
+<p class="imprintFooter"><a href="EN/Service/Imprint/Imprint.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2" title="Link to imprint">Imprint</a>&nbsp;&ndash;&nbsp;<a href="contact.html;jsessionid=6FE2250F4A2152DD6B1B334B8483FB52.InternetLive2?nn=51084" title="Link to contact form">contact</a></p>
+        <div id="btnDrucken">
+          <script type="text/javascript">
+          /* <![CDATA[ */
+            var printLinkText='Print';
+            document.write('<a href="javascript:void(0);" onclick="window.print();return false;">'+printLinkText+'<\/a>');
+            document.write('<a class="noprint" href="javascript:void(0);" onclick="ppToggle(); return false;">Print preview</a>');
+          /* ]]> */
+          </script>
+        </div>
+      </div>
+    </div><!-- #wrapperSiteInfo -->
+  </div><!-- #wrapperFooter -->
+  </div><!-- #wrapperInner -->
+</div> <!-- #wapperOuter -->
+
+<!--Realisiert mit dem Government Site Builder, der Content Management Lösung der Bundesverwaltung, www.government-site-builder.de -->
+  </body>
+</html>
